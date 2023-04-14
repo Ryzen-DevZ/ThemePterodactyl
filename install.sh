@@ -63,7 +63,7 @@ restoreBackUp(){
 echo "Copyright (c) 2023 Ryzen DevZ | xdbrinecraft.xdbcs.my.id"
 echo "This program is free software: you can redistribute it and/or modify"
 echo ""
-echo "Discord: https://discord.angelillo15.es/"
+echo "Discord: https://discord.gg/paMJpF9Y7n/"
 echo "Website: https://xdbrinecraft.xdbcs.my.id/"
 echo ""
 echo "[1] Install theme"
